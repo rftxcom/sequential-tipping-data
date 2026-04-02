@@ -1,0 +1,5 @@
+Version,N,In_Bands,Pct_In_Bands,Perm_P,Dip_Stat,Dip_P,Best_K_BIC,K3_Mean_1,K3_Mean_2,K3_Mean_3
+Full Dataset,30,26,86.7%,<0.0001,0.0960,0.0202,4,4.1%,10.0%,20.3%
+Version A (canonical),22,18,81.8%,<0.0001,0.0866,0.1774,1,3.7%,11.0%,22.6%
+Version B (lowest),22,19,86.4%,<0.0001,0.0625,0.7188,2,4.5%,16.4%,31.8%
+Version C (highest),22,19,86.4%,<0.0001,0.0833,0.2233,1,3.7%,15.0%,27.8%

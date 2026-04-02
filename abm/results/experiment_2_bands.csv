@@ -1,0 +1,2 @@
+activation_threshold,cascade_threshold,convention_change_threshold,predicted_activation,predicted_cascade,predicted_convention
+0.02,0.025,0.2,3.5-5%,10-16%,~25%
